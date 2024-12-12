@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Your go-to guide for RNA-Seq analysis, bioinformatics, computational genomics, and more, with step-by-step tutorials and expert tips in Python, R, and Linux.
